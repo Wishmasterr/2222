@@ -1,0 +1,22 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/PlanesWalkerr/AndroidLogger.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
+[remote "github"]
+	url = https://github.com/Wishmasterr/sss.git
+	fetch = +refs/heads/*:refs/remotes/github/*
+[user]
+	name = Wishmasterr
+	email = planeswalkerr@gmail.com
+[remote "ololo"]
+	url = https://github.com/Wishmasterr/2222.git
+	fetch = +refs/heads/*:refs/remotes/ololo/*
